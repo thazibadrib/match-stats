@@ -1,0 +1,25 @@
+{
+  "name": "adrib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thazib adrib",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.18",
+    "request": "^2.88.2",
+    "uuid4": "^2.0.2",
+    "validatorjs": "^3.22.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
